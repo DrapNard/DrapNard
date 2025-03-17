@@ -6,10 +6,6 @@ Welcome to my GitHub profile! I'm passionate about software development, focusin
 
 - **UndergroundStore**: A C# application serving as a store for ROM hacks, mods, and fan games. It offers features like file management, downloads, configuration options, and logging.
 
-- **uuvr-MiSide**: A universal VR mod for Unity games, enhancing gaming experiences by integrating virtual reality support.
-
-- **ReMusic**: A project dedicated to enhancing music experiences, showcasing my interest in audio applications.
-
 ## 🛠️ Skills and Technologies
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
