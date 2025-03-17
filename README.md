@@ -19,13 +19,10 @@ Welcome to my GitHub profile! I'm passionate about software development, focusin
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 
-## 📊 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DrapNard&layout=compact&theme=radical)
-
 ## 📈 GitHub Stats
 
 ![DrapNard's GitHub stats](https://github-readme-stats.vercel.app/api?username=DrapNard&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DrapNard&layout=compact&theme=radical)
 
 ## 🌱 Current Focus
 
